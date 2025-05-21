@@ -1,9 +1,7 @@
-# helloworld
+# smashlegends最新公告查询
 
-AstrBot 插件模板
+smashlegends最新公告查询，包括最新优惠码
 
-A template plugin for AstrBot plugin feature
 
-# 支持
 
-[帮助文档](https://astrbot.app)
+
